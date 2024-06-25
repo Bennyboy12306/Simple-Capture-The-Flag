@@ -1,4 +1,4 @@
-# Simple-CTF
+# Simple-Capture-The-Flag
  A Simple Capture The Flag Resourcepack and Datapack for Minecraft
 
 ## Resource Pack Features
