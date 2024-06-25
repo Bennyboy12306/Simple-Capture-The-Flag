@@ -1,0 +1,1 @@
+execute as @a[scores={CTFdeath=1..}] at @s run function ctf:death
