@@ -10,13 +10,25 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "custom/BlueFlag"
+      "model": "custom/RedFlag"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "custom/RedFlag"
+      "model": "custom/BlueFlag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "custom/GreenFlag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "custom/OrangeFlag"
     }
   ]
 }
