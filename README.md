@@ -34,3 +34,5 @@
 ```
 /give @p carved_pumpkin[custom_name='{"color":"gold","text":"Orange Flag"}',custom_model_data=4] 1
 ```
+
+Bennyboy12306/Py-Weighted-Loot-Table
