@@ -9,7 +9,7 @@
 
 ## Datapacks Features
 - Supports 4 Flags (Red, Blue, Green, Orange)
-- Flags will drop when a player dies
+- Flags will drop when a player dies (You can use this with keep inventory so players items stay and only the flags drop)
 - Flags will drop regardless of where they are in the inventory, hotbar, inventory, armor head slot or offhand
 
 
